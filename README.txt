@@ -11,7 +11,7 @@ Technologies Used
 	CSS: For styling and responsive design.
 
 How to View the Project
-	1. click to view my repository: 	https://github.com/chiragsolanki1035/Netflix-Clone
+	1. Click to view my repository: https://github.com/chiragsolanki1035/Netflix-Clone
 	2. Copy the HTML Code in index.html file
 	3. Copy the CSS code in style.css file
 	4. Open the index.html file in your browser.
