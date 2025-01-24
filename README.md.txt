@@ -16,7 +16,7 @@ How to View the Project
 	git clone https://github.com/yourusername/Netflix-Clone.git
 	Open the index.html file in your browser.
 Preview
-	Live Demo (Link to GitHub Pages or any live hosting platform once deployed)
+	
 
 Future Improvements
 	Add interactivity using JavaScript.
@@ -26,4 +26,4 @@ Author
 Chirag Solanki
 
 📧 Email: chiragsolanki5276@gmail.com
-🌐 LinkedIn: 
+🌐 LinkedIn: www.linkedin.com/in/chiragsolanki1035
